@@ -1,0 +1,40 @@
+{
+  "expertise": [
+    {
+      "title": "Skin-fitting",
+      "description": "Tailored to Perfection - Our skin-fitting experts ensure your outfit hugs your curves in all the right places, making you feel confident and stylish."
+    },
+    {
+      "title": "High-quality finishing",
+      "description": "Finishing Touches That Make a Difference - From intricate embellishments to hand-sewn details, our team of experts gives attention to every last detail to ensure the highest quality finish."
+    },
+    {
+      "title": "Design",
+      "description": "Inspired by You, Designed by Experts - Our design team has a keen eye for fashion and will work with you to create a custom piece that perfectly embodies your style and personality."
+    },
+    {
+      "title": "Fast turnaround time",
+      "description": "Fashion on Demand - Need a dress for that last-minute event? Our team of experts can have your dress ready in just 24 hours, without compromising on quality or style."
+    },
+    {
+      "title": "Fabric selection",
+      "description": "The Perfect Fabric for Every Occasion - Our fabric experts handpick the best materials to ensure your outfit is not only stylish, but also comfortable and durable."
+    },
+    {
+      "title": "Sustainable fashion",
+      "description": "Eco-Friendly Fashion - We are committed to sustainability and use eco-friendly materials and practices in all of our designs. Look good and feel good about your fashion choices."
+    },
+    {
+      "title": "Alteration",
+      "description": "Tailored to Fit - Our alteration experts can modify any garment to fit you perfectly, making your outfit look like it was made just for you."
+    },
+    {
+      "title": "Styling",
+      "description": "Expert Styling Advice - Our team of fashion experts can help you create the perfect outfit, from head to toe. Let us guide you on the latest trends, and offer you personalized styling advice."
+    },
+    {
+      "title": "Bridal wear",
+      "description": "Bridal Couture - We specialize in creating bespoke bridal wear that perfectly captures your vision. From the dress to the veil, we take care of every detail to make your special day unforgettable."
+    }
+  ]
+}
