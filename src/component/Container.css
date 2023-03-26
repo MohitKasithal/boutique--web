@@ -49,57 +49,23 @@
 /**konejknjdn*/
 .text-container {
   display: flex;
-
+  position: relative;
   flex-direction: column;
 }
 
-.onday {
+.text-container .onday {
+  font-family: "Righteous", cursive;
+
   display: flex;
-  gap: 2px;
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  position: relative;
+  letter-spacing: 5px;
   justify-content: center;
   align-items: center;
 }
-.onday span {
-  font-family: "Courgette", cursive;
-  color: white;
-  text-align: center;
-  display: inline-block;
-  animation: bounce 2s infinite;
-}
 
-@keyframes bounce {
-  0% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-5px);
-  }
-  100% {
-    transform: translateY(0);
-  }
-}
-.onday span:nth-child(1) {
-  animation-delay: 0.05s;
-}
-
-.onday span:nth-child(2) {
-  animation-delay: 0.1s;
-}
-
-.onday span:nth-child(3) {
-  animation-delay: 0.15s;
-  color: red;
-}
-
-.onday span:nth-child(4) {
-  animation-delay: 0.2s;
-  color: red;
-}
-
-.onday span:nth-child(5) {
-  animation-delay: 0.25s;
-  color: red;
-}
 .caption {
   background-color: #ffffffb7;
   padding: 0px 20px;

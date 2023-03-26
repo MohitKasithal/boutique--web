@@ -6,13 +6,7 @@ function Container() {
       <div className="container">
         <div className="con-in">
           <div className="text-container">
-            <h1 className="onday">
-              <span>O</span>
-              <span>n</span>
-              <span>D</span>
-              <span>a</span>
-              <span>y</span>
-            </h1>
+            <h1 className="onday">ONDAY</h1>
 
             <div className="caption">
               <h4>BOUTIQUE STUDIO</h4>
