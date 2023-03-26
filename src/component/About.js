@@ -26,13 +26,21 @@ function About() {
             </p>
             <p>
               <strong>Instagram:</strong>{" "}
-              <a href="https://www.instagram.com/onday846" target="_blank">
+              <a
+                href="https://www.instagram.com/onday846"
+                rel="noreferrer"
+                target="_blank">
                 onday846
               </a>
             </p>
+
             <p>
-              <strong>facebook:</strong>{" "}
-              <a href="https://www.facebook.com/onday" target="_blank">
+              <strong>facebook:</strong>
+
+              <a
+                href="https://www.facebook.com/onday"
+                rel="noreferrer"
+                target="_blank">
                 onday
               </a>
             </p>
